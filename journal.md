@@ -7,4 +7,4 @@ Git Training with Gerard
 # Introduction
 
 I've just got back from holiday and did not fancy doing any real work.
-
+I chatted to my colleagues when I returned and advised that if they want to go to Ireland they consult Bloggs et al 2004 for info.
