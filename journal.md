@@ -26,7 +26,7 @@ Booked ferry, caught ferry, trugged through Dublin, stayed in a cottage, went si
 
 # Results
 
-Saw some great countryside and coastal landscapes, drank lots of Irish beer, visited a few museums. Came back to work more relaxed.
+Saw some great countryside and coastal landscapes, drank lots of Irish beer, visited a few museums. Came back to work more relaxed and with a mind empty of junk so I could absorb the magic of git from Gerard's Marvellous Training Course.
 
 # Conclusions
 
