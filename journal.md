@@ -16,3 +16,7 @@ I do not recommend the Rough Guide to Ireland.
 # George's Holiday
 
 GWL went to Madrid with a friend, saw the sites, drank lots of beer, and went to a footie match.
+
+# Methodology
+
+Booked ferry, caught ferry, trugged through Dublin, stayed in a cottage, went sightseeing, came home.
