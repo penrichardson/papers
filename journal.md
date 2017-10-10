@@ -20,3 +20,7 @@ GWL went to Madrid with a friend, saw the sites, drank lots of beer, and went to
 # Methodology
 
 Booked ferry, caught ferry, trugged through Dublin, stayed in a cottage, went sightseeing, came home.
+
+# Conclusions
+
+The West of Ireland is a great place to visit. 
