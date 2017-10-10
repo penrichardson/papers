@@ -1,7 +1,6 @@
 # Author
-George Leaver
-Pen Richardson
-
+George Leaver Uni of Manc
+Pen Richardson Uni of Manc
 
 # Title
 
