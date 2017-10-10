@@ -39,3 +39,8 @@ Managed to consume 48 irish beers from 28 different irish breweries.
 # Acknowledgements
 
 My husband for doing all the driving.
+
+# Further acknowledgments
+Ireland is great for beer, poor for weather
+Spain is great for beer and sun!
+
