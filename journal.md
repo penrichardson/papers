@@ -6,6 +6,9 @@ George Leaver
 
 Git Training with Gerard post mine and George's holidays
 
+# Abstract
+
+Holiday fun in Ireland and Spain (though we mostly ignore the Spain bit).
 
 # Introduction
 
