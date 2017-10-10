@@ -29,4 +29,6 @@ Saw some great countryside and coastal landscapes, drank lots of Irish beer, vis
 
 The West of Ireland is a great place to visit. 
 
+# Figures
 
+Managed to consume 48 irish beers from 28 different irish breweries.
