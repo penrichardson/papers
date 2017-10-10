@@ -21,6 +21,12 @@ GWL went to Madrid with a friend, saw the sites, drank lots of beer, and went to
 
 Booked ferry, caught ferry, trugged through Dublin, stayed in a cottage, went sightseeing, came home.
 
+# Results
+
+Saw some great countryside and coastal landscapes, drank lots of Irish beer, visited a few museums. Came back to work more relaxed.
+
 # Conclusions
 
 The West of Ireland is a great place to visit. 
+
+
