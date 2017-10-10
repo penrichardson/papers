@@ -1,8 +1,9 @@
 # Author
 Pen Richardson
+George Leaver
 
 # Title
-Git Training with Gerard
+Git Training with Gerard post RI Team holidays
 
 # Introduction
 
