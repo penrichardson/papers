@@ -2,7 +2,7 @@
 Pen Richardson
 
 # Title
-Git Training with Gerard
+Git Training with Gerard post my holiday
 
 # Introduction
 
